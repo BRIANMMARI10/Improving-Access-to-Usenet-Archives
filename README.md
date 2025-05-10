@@ -15,8 +15,10 @@ This project builds an end-to-end semantic search engine and visualization tool 
 
 - `TRA301_Final_Colab.ipynb` – Full pipeline: embedding, FAISS, UMAP, RAG, Dash app  
 - `TRA301_Report.pdf` – Final write-up documenting system design and evaluation  
-- `demo_videos/` – Screen recordings of the deployed app  
+- [Demo Video 1](https://drive.google.com/file/d/18VkHLzCeE6asw1ttLIFXQj380RoO_kjA/view?usp=sharing) – Semantic search and visualization walkthrough  
+- [Demo Video 2](https://drive.google.com/file/d/1NExyon3ecQpIaF0uOmrPtJm9ipSG_ith/view?usp=sharing) – GPT-4o RAG interaction demo  
 - `README.md` – Project overview  
+
 
 
 ## Getting Started
