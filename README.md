@@ -2,7 +2,6 @@
 
 This project builds an end-to-end semantic search engine and visualization tool over 20 Newsgroups data. It integrates FAISS for fast similarity search, UMAP for topic projection, and GPT-4o via AzureOpenAI for grounded RAG (Retrieval-Augmented Generation).
 
----
 
 ## Features
 
@@ -11,12 +10,14 @@ This project builds an end-to-end semantic search engine and visualization tool 
 - **LLM-Powered Q&A**: Ask natural language questions and get grounded answers from GPT-4o.
 - **Deployed Dash Interface**: Interactive, real-time exploration served with Ngrok.
 
----
 
 ## Project Structure
+usenet-search/
+├── TRA301_Final_Colab.ipynb # Main notebook with code for search, UMAP, RAG, and Dash app
+├── TRA301_Report.pdf # Final report documenting system design and evaluation
+├── demo_videos/ # Screen recordings of the deployed app
+└── README.md # Project overview
 
-
----
 
 ## Getting Started
 
