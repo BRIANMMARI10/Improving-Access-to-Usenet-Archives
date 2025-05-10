@@ -12,9 +12,8 @@ This project builds an end-to-end semantic search engine and visualization tool 
 
 
 ## Project Structure
-usenet-search/
-├── TRA301_Final_Colab.ipynb # Main notebook with code for search, UMAP, RAG, and Dash app
-├── TRA301_Report.pdf # Final report documenting system design and evaluation
+├── TRA301_Final_Colab.ipynb # Full pipeline: embedding, FAISS, UMAP, RAG, Dash app
+├── TRA301_Report.pdf # Final write-up documenting system design and evaluation
 ├── demo_videos/ # Screen recordings of the deployed app
 └── README.md # Project overview
 
